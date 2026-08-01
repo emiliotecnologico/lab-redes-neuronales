@@ -25,7 +25,7 @@ try:
 except ImportError:
     PDF_DISPONIBLE = False
 
-API_KEY_GEMINI = "AQ.Ab8RN6LryYMM3TQnrNRAw35AyEYVhufAncMAsr9zjVJcPvQwPQ"
+API_KEY_GEMINI = ""
 
 COLOR_AZUL = "#003399"       
 COLOR_ROJO = "#D32F2F"       
